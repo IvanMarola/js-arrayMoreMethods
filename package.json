@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanMarola/js-arrayMoreMethods.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IvanMarola/js-arrayMoreMethods/issues"
+  },
+  "homepage": "https://github.com/IvanMarola/js-arrayMoreMethods#readme"
 }
